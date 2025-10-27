@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjit-bhandary&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-bhandary&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-Delta&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Delta&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
