@@ -52,4 +52,4 @@
 
 ---
 
-⭐ *“Backend is the brain of every system — and I love building strong ones.”*  
+⭐ *“Backend is the brain of every system — and I love building strong ones.”*
