@@ -132,13 +132,19 @@ const ranjit = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Coder-Delta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Coder-Delta&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Delta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak"/>
+</p>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Delta&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true&theme=react-dark" />
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Delta&theme=react-dark&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Delta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Coder-Delta&theme=radical&utcOffset=5.5" />
+<p align="center">
+  <a href="https://github.com/Coder-Delta">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coder-Delta&theme=tokyonight" alt="Profile Summary"/>
+  </a>
+</p>
 
 </div>
 
