@@ -1,222 +1,128 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Ranjit%20Bhandary&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20API%20Architecture&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ranjit%20Bhandary&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-### MERN Stack Developer | Backend Specialist | API Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Backend+Systems;Crafting+Efficient+RESTful+APIs;Database+Architecture+%26+Optimization;Passionate+About+Clean+Code" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-```javascript
-const ranjit = {
-    role: "MERN Stack Developer",
-    location: "Kolkata, West Bengal, India",
-    code: ["JavaScript", "TypeScript", "Python"],
-    architecture: ["REST APIs", "Microservices", "MVC", "SPA"],
-    technologies: {
-        frontend: ["React.js", "HTML5", "CSS3", "Three.js"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "PostgreSQL"],
-        otherSkills: ["Django", "Python"]
-    },
-    tools: ["Postman", "Git", "GitHub", "VS Code", "npm"],
-    currentFocus: "Full Stack MERN Development & Advanced Backend Architecture",
-    learning: ["Docker", "AWS", "Redis", "GraphQL"],
-    philosophy: "Backend is the brain of every system — I build strong ones."
-};
-```
-
-<br/>
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Current Focus
-
-</div>
-
-```diff
-+ Building full-stack applications with MERN stack
-+ Deep diving into Docker, AWS, and Cloud Technologies
-+ Performance optimization and system design patterns
-+ Contributing to open-source projects
-+ Exploring GraphQL and advanced caching strategies
-```
-
-<br/>
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-        <br>Three.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-        <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Delta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Delta&theme=react-dark&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Coder-Delta">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coder-Delta&theme=tokyonight" alt="Profile Summary"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=23D18B&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Designing+Secure+REST+APIs;Optimizing+Database+Performance;Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
   </a>
-</p>
 
+  <br />
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Github-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
 </div>
 
-<br/>
+<br />
+
+<h2 align="center">👨‍💻 Engineering Philosophy</h2>
 
 <div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Core Competencies
-
+  <blockquote>
+    <i>"I don't just write code; I engineer solutions. My focus is on separating concerns, ensuring data integrity, and minimizing latency in server-side applications."</i>
+  </blockquote>
 </div>
 
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-### Frontend Development
-- React.js & Component Design
-- State Management
-- Responsive UI/UX
-- Three.js 3D Graphics
-- Modern CSS & Styling
-- Single Page Applications
-
-</td>
-<td width="33%" valign="top">
-
-### Backend Development
-- Node.js & Express.js
-- RESTful API Architecture
-- Authentication & Authorization
-- Middleware & Error Handling
-- Performance Optimization
-- Server-Side Logic
-
-</td>
-<td width="33%" valign="top">
-
-### Database & Tools
-- MongoDB (NoSQL)
-- PostgreSQL (SQL)
-- Schema Design & Modeling
-- Query Optimization
-- API Testing with Postman
-- Version Control with Git
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br />
 
 <div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>📌 What I Do</h3>
+        <ul>
+          <li><b>API Architecture:</b> Designing stateless, secure RESTful systems.</li>
+          <li><b>Database Engineering:</b> Leveraging MongoDB Aggregation for complex data pipelines.</li>
+          <li><b>Real-time Systems:</b> Implementing Event-driven architectures using WebSockets.</li>
+          <li><b>Deployment:</b> Containerizing workflows with Docker & Linux.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🧩 The Code</h3>
+<pre lang="javascript">
+const developer = {
+  name: "Ranjit Bhandary",
+  location: "Kolkata, India",
+  core: "Backend Development",
+  focus: ["Performance", "Security"],
+  stack: {
+    server: "Node.js & Express",
+    db: "MongoDB & Redis"
+  }
+};
+</pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/ranjit-bhandary-3489a9334)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:01ranjitbhandary@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Coder-Delta)
-
-<br/>
-
-### Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Coder-Delta&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
+<br />
+<div align="center">🔍 <i>Always looking for the most efficient query execution plan.</i></div>
+<br />
 
 ---
 
-**"Backend is the brain of every system — I build strong ones."**
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+  
+| **Core Backend** | **Data & Caching** | **Frontend (Support)** | **DevOps & Tools** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,py" height="50"/> | <img src="https://skillicons.dev/icons?i=mongodb,redis" height="50"/> | <img src="https://skillicons.dev/icons?i=vue,js,html,css" height="50"/> | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" height="50"/> |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+---
+
+<h2 align="center">🚀 Featured Deployments</h2>
+
+### 1. 🎬 cholocitro.exe | *Video Streaming Backend*
+> A high-performance backend system designed to handle secure video content delivery.
+>
+> ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+* **The Challenge:** Efficiently filtering and serving video content while maintaining security.
+* **The Solution:** Implemented **MongoDB Aggregation Framework** for complex querying and optimized data retrieval speeds.
+* **Infrastructure:** Fully **Dockerized** application ensuring consistent behavior across development and production environments.
+
+<br />
+
+### 2. 💬 Doot | *Real-time Chat Infrastructure*
+> A low-latency messaging application built for instant communication.
+>
+> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+* **Architecture:** Utilized **WebSockets** for bi-directional, event-based communication.
+* **Features:** Engineered room-based messaging logic and real-time delivery status updates.
+* **Security:** Integrated robust **JWT Authentication** to secure socket connections and API endpoints.
+
+<br />
+
+### 3. 📡 Signal | *CMS Backend System*
+> A structured and secure backend for content management.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+
+* **Role:** Designed RESTful APIs handling full CRUD operations for blog posts.
+* **Access Control:** Implemented strict **Role-Based Access Control (RBAC)** to differentiate between admin, author, and reader permissions.
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=23D18B&icon_color=23D18B" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=23D18B&icon_color=23D18B&exclude_repo=YOUR_EXCLUDED_REPOS" height="150" alt="Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="Footer" />
 </div>
