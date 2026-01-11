@@ -13,19 +13,23 @@
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Coder-Delta">
     <img src="https://img.shields.io/badge/Github-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
 </div>
 
 <br />
 
-<h2 align="center">👨‍💻 Engineering Philosophy</h2>
+<h2 align="center">⚙️ Engineering Philosophy</h2>
 
 <div align="center">
-  <blockquote>
-    <i>"I don't just write code; I engineer solutions. My focus is on separating concerns, ensuring data integrity, and minimizing latency in server-side applications."</i>
-  </blockquote>
+  <table>
+    <tr>
+      <td align="center">
+        <i>"I don't just write code; I engineer solutions. My focus is on separating concerns, ensuring data integrity, and minimizing latency in server-side applications."</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -34,7 +38,7 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <h3>📌 What I Do</h3>
+        <h3>🛠️ Core Competencies</h3>
         <ul>
           <li><b>API Architecture:</b> Designing stateless, secure RESTful systems.</li>
           <li><b>Database Engineering:</b> Leveraging MongoDB Aggregation for complex data pipelines.</li>
@@ -43,7 +47,7 @@
         </ul>
       </td>
       <td valign="top" width="50%">
-        <h3>🧩 The Code</h3>
+        <h3>💻 System Profile</h3>
 <pre lang="javascript">
 const developer = {
   name: "Ranjit Bhandary",
@@ -62,67 +66,50 @@ const developer = {
 </div>
 
 <br />
-<div align="center">🔍 <i>Always looking for the most efficient query execution plan.</i></div>
+<div align="center">⚡ <i>Optimizing for sub-100ms response times.</i></div>
 <br />
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center">🛡️ Technical Arsenal</h2>
 
 <div align="center">
-  
-| **Core Backend** | **Data & Caching** | **Frontend (Support)** | **DevOps & Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nodejs,express,py" height="50"/> | <img src="https://skillicons.dev/icons?i=mongodb,redis" height="50"/> | <img src="https://skillicons.dev/icons?i=vue,js,html,css" height="50"/> | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" height="50"/> |
+
+| **Server & Logic** | **Data & Persistence** | **Integration & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,py,django" height="45"/> | <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres" height="45"/> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,postman" height="45"/> |
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Featured Deployments</h2>
+<h2 align="center">💎 Featured Projects</h2>
 
-### 1. 🎬 cholocitro.exe | *Video Streaming Backend*
-> A high-performance backend system designed to handle secure video content delivery.
+### 💠 cholocitro.exe | *Video Streaming Infrastructure*
+> High-concurrency backend optimized for secure media delivery.
 >
-> ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-* **The Challenge:** Efficiently filtering and serving video content while maintaining security.
-* **The Solution:** Implemented **MongoDB Aggregation Framework** for complex querying and optimized data retrieval speeds.
-* **Infrastructure:** Fully **Dockerized** application ensuring consistent behavior across development and production environments.
+* **Logic:** Utilized **MongoDB Aggregation** for complex metadata filtering.
+* **DevOps:** Fully containerized via **Docker** for seamless scaling.
 
 <br />
 
-### 2. 💬 Doot | *Real-time Chat Infrastructure*
-> A low-latency messaging application built for instant communication.
+### 💠 Doot | *Low-Latency Messaging*
+> Real-time communication engine built on event-driven architecture.
 >
-> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-* **Architecture:** Utilized **WebSockets** for bi-directional, event-based communication.
-* **Features:** Engineered room-based messaging logic and real-time delivery status updates.
-* **Security:** Integrated robust **JWT Authentication** to secure socket connections and API endpoints.
-
-<br />
-
-### 3. 📡 Signal | *CMS Backend System*
-> A structured and secure backend for content management.
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-
-* **Role:** Designed RESTful APIs handling full CRUD operations for blog posts.
-* **Access Control:** Implemented strict **Role-Based Access Control (RBAC)** to differentiate between admin, author, and reader permissions.
+* **Protocol:** Implemented bi-directional communication via **WebSockets**.
+* **Security:** Secured endpoints with stateless **JWT Authentication**.
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+---
+
+<h2 align="center">📊 Contribution Metrics</h2>
 
 <div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=23D18B&icon_color=23D18B" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=23D18B&icon_color=23D18B&exclude_repo=YOUR_EXCLUDED_REPOS" height="150" alt="Languages" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Delta&bg_color=0D1117&color=23D18B&line=23D18B&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Matrix" />
 
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="Footer" />
-</div>
+  <br/>
